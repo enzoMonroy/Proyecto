@@ -1,0 +1,42 @@
+Correo electronico del dispositivo es: portail@gmail.com
+el nombre del dispositivo es:  portatil1
+visible para conexion:  si
+Correo electronico del dispositivo es: portatil@gmail.com
+el nombre del dispositivo es:  portatil11111
+visible para conexion:  si
+Correo electronico del dispositivo es: compu333333@gmail.com
+el nombre del dispositivo es:  compunueva
+visible para conexion:  si
+NOTA: El dispositivo estara encendido por defecto
+Correo electronico del dispositivo es: porta55555@gmail.com
+el nombre del dispositivo es:  portatil55555
+visible para conexion:  si
+NOTA: El dispositivo estara encendido por defecto
+Correo electronico del dispositivo es: dsfa
+el nombre del dispositivo es:  fs
+visible para conexion:  dfd
+NOTA: El dispositivo estara encendido por defecto
+Correo electronico del dispositivo es: cel1@gmail.com
+el nombre del dispositivo es:  nokia
+Ell numero del dispositivo es; 25510202
+visible para conexion:  si
+
+NOTA: El dispositivo estara encendido por defecto
+Correo electronico del dispositivo es: smartphone.new@hotmail.net
+El nombre del dispositivo es:  smatrphoneOne
+El numero de telefono del smartphone es: 54645645
+Visible para conexion:  si
+
+NOTA: El dispositivo estara encendido por defecto
+Correo electronico del dispositivo es: smath@gmail.com
+El nombre del dispositivo es:  smart111
+Visible para conexion:  si
+El numero de telefono del smartphone es: 0
+
+NOTA: El dispositivo estara encendido por defecto
+Correo electronico del dispositivo es: safsdf@sdfja.com
+El nombre del dispositivo es:  sadf
+Visible para conexion:  si
+El numero de telefono del smartphone es: 51257723
+
+NOTA: El dispositivo estara encendido por defecto

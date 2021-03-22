@@ -1,0 +1,3 @@
+Correo electronico del dispositivo es:  portatil@gmail.com
+el nombre del dispositivo es:  portail1
+visible para conexion:  si
